@@ -5,8 +5,9 @@
 using namespace std;
 
 float payRate;
-float hours[7];
-string days[] = { "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday" };
+const int hourDim = 7;
+float hours[hourDim];
+const string days[] = { "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday" };
 float totalHours=0;
 float totalEarned;
 float totalExpense;
@@ -19,7 +20,7 @@ int main()
 	cout << " Hourly Rate: ";
 	cin >> payRate ;
 	cout<< endl;
-	GetHours : for (int i = 0; i <7; i++)
+	GetHours : for (int i = 0; i <hourDim; i++)
 	{
 		cout << " Hours Worked " << days[i] << ":";
 		cin >> hours[i];

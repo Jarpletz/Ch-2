@@ -1,0 +1,9 @@
+﻿  HW 4- SelfCheckout.cpp
+C:\Users\rothp\OneDrive\Documents\GitHub\Ch-2\HW 4- SelfCheckout\HW 4- SelfCheckout.cpp(60,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rothp\OneDrive\Documents\GitHub\Ch-2\HW 4- SelfCheckout\HW 4- SelfCheckout.cpp(64,57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rothp\OneDrive\Documents\GitHub\Ch-2\HW 4- SelfCheckout\HW 4- SelfCheckout.cpp(68,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rothp\OneDrive\Documents\GitHub\Ch-2\HW 4- SelfCheckout\HW 4- SelfCheckout.cpp(72,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rothp\OneDrive\Documents\GitHub\Ch-2\HW 4- SelfCheckout\HW 4- SelfCheckout.cpp(82,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rothp\OneDrive\Documents\GitHub\Ch-2\HW 4- SelfCheckout\HW 4- SelfCheckout.cpp(86,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rothp\OneDrive\Documents\GitHub\Ch-2\HW 4- SelfCheckout\HW 4- SelfCheckout.cpp(90,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  HW 4- SelfCheckout.vcxproj -> C:\Users\rothp\OneDrive\Documents\GitHub\Ch-2\HW 4- SelfCheckout\Debug\HW 4- SelfCheckout.exe
